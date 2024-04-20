@@ -12,7 +12,7 @@ function calculateAge(dob) {
     age--;
   }
 
-  return age;
+  return age; 
 }
 
 var dob = prompt("Please enter your date of birth (YYYY-MM-DD):");
